@@ -10,3 +10,6 @@ tags
 tegra/
 *.i
 .download*
+*.suo
+/.vs/contrib/v15
+/.vs
